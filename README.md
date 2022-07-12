@@ -4,6 +4,7 @@ https://www.youtube.com/watch?v=V53AHWun17s
 
 https://raw.githubusercontent.com/RodrigoMvs123/Terraform-with-Azure/main/README.md
 
+https://github.com/RodrigoMvs123/Terraform-with-Azure/blame/main/README.md
 
 Terraform with Azure
 
